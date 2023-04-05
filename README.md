@@ -9,4 +9,4 @@ Nguyễn Văn Công - 2012754 - L02\
 Lê Trần Hoàng Vương - 2015107 - L02\
 Trần Thế Phong - 2014130 - L02\
 Lê Quang Tuấn Hào - 2013048 - L02\
-Nguyễn Khôi Nguyên - 2013923 - L02\
+Nguyễn Khôi Nguyên - 2013923 - L02
